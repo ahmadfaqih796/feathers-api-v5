@@ -1,6 +1,6 @@
 # feathers-api-v5
 
-> Knex is a fast and flexible query builder for SQL and supports many databases without the overhead of a full blown ORM like Sequelize
+> Knex is a fast and flexible query builder for SQL and supports many databases without the overhead of a full blown ORM like Sequelize C
 
 ## About
 

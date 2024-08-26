@@ -5,6 +5,8 @@ export {}
 
 export {}
 
+export {}
+
 /**
  * Returns a  client for the feathers-api-v5 app.
  *
@@ -23,6 +25,8 @@ export const createClient = (connection, authenticationOptions = {}) => {
   client.configure(usersClient)
 
   client.configure(usersClient)
+
+  client.configure(productClient)
 
   return client
 }
